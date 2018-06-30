@@ -1,0 +1,2 @@
+model_checkpoint_path: "PCA_GREYC2XCNN"
+all_model_checkpoint_paths: "PCA_GREYC2XCNN"

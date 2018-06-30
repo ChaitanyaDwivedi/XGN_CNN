@@ -1,0 +1,2 @@
+model_checkpoint_path: "cmu2x_datCNN"
+all_model_checkpoint_paths: "cmu2x_datCNN"
