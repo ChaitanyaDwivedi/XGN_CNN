@@ -1,4 +1,4 @@
-# XGN_CNN
+# XGB_CNN
 Using XGB: </br>
 import xgboost as xgb  
 #To load XGB model  
